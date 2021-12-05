@@ -1,1 +1,1 @@
-
+In this project I looked at Super Bowl Data, generated insights into game outcomes, viewership, and even halftime shows.I developed an informative plot that helped to visualize the viewership and quality of The Office throughout its nine seasons.
